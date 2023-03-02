@@ -1,0 +1,41 @@
+body{
+    background-color:#060047;
+}
+code{
+    font-size: 50px;
+    letter-spacing: 20px;
+    color: white;
+}
+textarea{
+    display: inline;
+	border-radius:5px;
+    background-color:#ECF2FF;
+    font-family: Lucida Console;
+    font-size: 20px;
+    margin: 15px;
+    border: 5px solid #F7FD04;
+    padding: 5px;
+    width: 1000px;
+}
+button{
+    background-color:#40394A;
+    font-family: Lucida Console;
+    font-size: 20px;
+    border-radius:5px;
+    border: 5px solid #F7FD04;
+    color: white;
+}
+p{
+    font-family: Lucida Console;
+    font-size: 20px;
+    letter-spacing: 8px;
+    fo
+}
+div{
+    margin: 10px;
+    border: 5px solid #F7FD04;
+    padding: 15px;
+    width: 600px;
+    border-radius: 5px;
+    background-color:#ECF2FF;
+}
